@@ -44,7 +44,7 @@ const Section1 = () => {
                         </h6>
                         <p className="aww">235</p>
                      </div>
-                     <button className="a">REQUEST DONATION</button>
+                     <button className="a">REQUEST DONATIONs</button>
 
                       </div>
                       <div  data-aos="zoom-out" data-aos-delay="1000"className="col-md-6">
