@@ -1,0 +1,19 @@
+.fio{
+    position: relative;
+    bottom: 18em;
+    color: white;
+}
+.fii{
+    border: none;
+    border-radius: 0.5em;
+
+}
+.fiii{
+    border: none;
+    margin-left: 1.5em;
+    background-color: black;
+    color: white;
+    border-radius: 0.5em;
+    
+
+}

@@ -1,0 +1,20 @@
+.ji{
+    width: 15em;
+    height: 20em;
+    background-color: black;
+    border-radius: 5px;
+
+    color: white;
+}
+.pi{
+    padding-top: 5em;
+}
+.jii{
+    position: relative;
+    top: 3em;
+    border: none;
+}
+.jiii{
+    position:relative;
+    bottom: 3em;
+}
